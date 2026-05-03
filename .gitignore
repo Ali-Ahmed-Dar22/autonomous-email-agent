@@ -1,0 +1,14 @@
+# Private API Keys & Auth Tokens
+credentials.json
+token.json
+*.json
+
+# Log Files
+email_bot_log.txt
+*.log
+
+# Python Cache & Env
+__pycache__/
+*.pyc
+*.pyo
+.env
